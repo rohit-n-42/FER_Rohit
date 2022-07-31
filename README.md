@@ -9,4 +9,5 @@ The *model.h5* file is the model that is used as classifier, and is created in *
 
 *haarcascade_frontalface_default.xml* file is used in the *main.py* file.
 
+Dataset Link: https://www.dropbox.com/s/nilt43hyl1dx82k/dataset.zip?dl=0
 
