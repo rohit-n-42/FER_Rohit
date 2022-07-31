@@ -7,7 +7,7 @@ The *classifier.ipynb* file is the code for the classifier, showing output for a
 
 The *model.h5* file is the model that is used as classifier, and is created in *classifier.ipynb* file
 
-*haarcascade_frontalface_default.xml* file is used in the *main.py* file.
+The *haarcascade_frontalface_default.xml* file is used in the *main.py* file.
 
 Dataset Link: https://www.dropbox.com/s/nilt43hyl1dx82k/dataset.zip?dl=0
 
